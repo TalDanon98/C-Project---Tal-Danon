@@ -9,6 +9,7 @@ and the file from the course booklet.
 
 
 ************** files inforamtion *****************************************
+
 ps.as is the file from the course booklet.
 work.ps is another file like the file in the course booklet.
 error1.as is showcasing a wide variety of errors you might get by extreme cases.
